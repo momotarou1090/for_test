@@ -1,0 +1,5 @@
+Credentials cache: API:D33D0DA3-12D5-40B7-8CFC-65A32BDCFA4B
+        Principal: tkataoka@42TOKYO.JP
+
+  Issued                Expires               Principal
+Aug  3 18:14:17 2020  Aug  4 04:14:17 2020  krbtgt/42TOKYO.JP@42TOKYO.JP
